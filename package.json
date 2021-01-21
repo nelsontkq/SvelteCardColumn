@@ -1,0 +1,25 @@
+{
+  "name": "@nelsontkq/cardcolumn",
+  "version": "1.0.0",
+  "description": "An interactive column of cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nelsontkq/SvelteCardColumn.git"
+  },
+  "keywords": [
+    "svelte",
+    "card",
+    "mtg",
+    "column"
+  ],
+  "author": "Nelsontkq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsontkq/SvelteCardColumn/issues"
+  },
+  "homepage": "https://github.com/nelsontkq/SvelteCardColumn#readme"
+}
